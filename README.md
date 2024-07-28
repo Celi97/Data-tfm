@@ -16,3 +16,4 @@ Adicionalmente se ha creado una pregunta para cada frase. En las carpetas podemo
 
  - MISTRAL: En esta carpeta se encuentran las frases generadas por el modelo _mistralai/Mixtral-8x7B-Instruct-v0.1_
  - GPT3.5-turbo: En esta carpeta se encuentran las frases generadas por el modelo de Open AI _GPT3.5-turbo_
+ - GPT-4o-mini: En esta carpeta se encuentran las frases generadas por el modelo de Open AI _GPT-4o-mini_
