@@ -15,4 +15,4 @@ Las frases de los puntos 2. y 3. pueden ser la misma si el usuario/a no ha consi
 Adicionalmente se ha creado una pregunta para cada frase. En las carpetas podemos encontrar las preguntas generadas para cada una de las frases.
 
  - MISTRAL: En esta carpeta se encuentran las frases generadas por el modelo *"mistralai/Mixtral-8x7B-Instruct-v0.1",*
- - GPT-3.5-turbo: En esta carpeta se encuentran las frases generadas por el modelo de Open AI *GPT-3.5-turbo*
+ - GPT3.5-turbo: En esta carpeta se encuentran las frases generadas por el modelo de Open AI *GPT-3.5-turbo*
