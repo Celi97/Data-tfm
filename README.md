@@ -17,3 +17,11 @@ Adicionalmente se ha creado una pregunta para cada frase. En las carpetas podemo
  - MISTRAL: En esta carpeta se encuentran las frases generadas por el modelo _mistralai/Mixtral-8x7B-Instruct-v0.1_
  - GPT3.5-turbo: En esta carpeta se encuentran las frases generadas por el modelo de Open AI _GPT3.5-turbo_
  - GPT-4o-mini: En esta carpeta se encuentran las frases generadas por el modelo de Open AI _GPT-4o-mini_
+
+# Evaluación
+
+Dentro de la carpeta asociada a cada modelo se puede encontrar otra con el nombre 'Score'. Dentro de esa carpeta se pueden encontrar los valores obtenidos para cada evaluador.
+
+# Códigos
+
+Los códigos se dividen en dos, los relacionados a la creación de las preguntas y las respuestas y los códigos usados para las métricas de evaluación.
